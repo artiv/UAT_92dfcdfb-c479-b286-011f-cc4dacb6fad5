@@ -44,7 +44,54 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Video",
 						"fieldKey": "Video",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "m____odern_e9DX",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_wizc3g97g7HGLx32M%2Fm____odern_e9DX.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.139501,
+										"duration": 30.139501,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_wizc3g97g7HGLx32M%2Fm____odern_e9DX.mp4"
+								],
+								"transformedPublicIds": [
+									"m____odern_e9DX"
+								],
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"size": 1398635,
+								"type": "video/mp4",
+								"originalName": "m!@#$odern",
+								"format": "mp4",
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "m____odern"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
